@@ -2,6 +2,8 @@
 
 This is a coursework for CM50265 Machine Learning 2 (Semester 2, 2022) at the University of Bath.
 
+Grade: 80/100 (Distinction)
+
 ## Objective
 
 The goal of this coursework is to solve a NLP task of movie review sentiment prediction (positive/negative). The data is a subset of the [IMDB movie reviews dataset](http://ai.stanford.edu/~amaas/data/sentiment/).
